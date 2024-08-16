@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
-    <mxGraphModel dx="2238" dy="1639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2451" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N0wZfw24Igy4qFA5nrtg-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#97D077;" edge="1" parent="1" source="N0wZfw24Igy4qFA5nrtg-2" target="N0wZfw24Igy4qFA5nrtg-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N0wZfw24Igy4qFA5nrtg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="cUS8VH8UwONtFn9sA2R1-51" target="N0wZfw24Igy4qFA5nrtg-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
         <mxCell id="N0wZfw24Igy4qFA5nrtg-25" value="Regular neolithic content with focus on warfare &amp;amp; hunting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N0wZfw24Igy4qFA5nrtg-1">
           <mxGeometry y="26" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N0wZfw24Igy4qFA5nrtg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="N0wZfw24Igy4qFA5nrtg-2" target="N0wZfw24Igy4qFA5nrtg-6">
+        <mxCell id="N0wZfw24Igy4qFA5nrtg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#67AB9F;" edge="1" parent="1" source="N0wZfw24Igy4qFA5nrtg-2" target="N0wZfw24Igy4qFA5nrtg-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N0wZfw24Igy4qFA5nrtg-2" value="Sedentary Tribe" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
@@ -70,7 +73,7 @@
         <mxCell id="N0wZfw24Igy4qFA5nrtg-24" value="Regular progression - access to stone structures, arts, metalworking, etc." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N0wZfw24Igy4qFA5nrtg-5">
           <mxGeometry y="26" width="160" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="N0wZfw24Igy4qFA5nrtg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="N0wZfw24Igy4qFA5nrtg-6">
+        <mxCell id="N0wZfw24Igy4qFA5nrtg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#67AB9F;" edge="1" parent="1" source="N0wZfw24Igy4qFA5nrtg-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="319.89473684210543" y="540" as="targetPoint" />
           </mxGeometry>
@@ -101,6 +104,19 @@
         </mxCell>
         <mxCell id="N0wZfw24Igy4qFA5nrtg-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=5;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="N0wZfw24Igy4qFA5nrtg-2" target="N0wZfw24Igy4qFA5nrtg-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N0wZfw24Igy4qFA5nrtg-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;fillColor=#d5e8d4;strokeColor=#97D077;" edge="1" parent="1" source="N0wZfw24Igy4qFA5nrtg-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569.7368421052633" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0wZfw24Igy4qFA5nrtg-34" value="Insect Worshippers" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="490" y="350" width="160" height="110" as="geometry">
+            <mxRectangle x="-20" y="100" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N0wZfw24Igy4qFA5nrtg-35" value="???" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="N0wZfw24Igy4qFA5nrtg-34">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
